@@ -14,6 +14,7 @@ Seorang pengembang front end dengan :smile: keahlian dalam JavaScript, PHP, Tail
     <img src="https://img.shields.io/badge/framework-Next.Js-%23000000?logo=nextdotjs" />
     <img src="https://img.shields.io/badge/framework-Laravel-%23FF2D20?logo=Laravel" />
 </p>
+
 ### <summary><strong>Stats💪</strong></summary>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ridhoarrosyid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
@@ -22,10 +23,10 @@ Seorang pengembang front end dengan :smile: keahlian dalam JavaScript, PHP, Tail
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently FullStack Development. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
+    - :mailbox: How to reach me: <a href="mailto:muhammadridhoarrosyid@gmail.com">Email me!</a>  </br>
+    - :cloud: Pronouns: He/Him. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
  
