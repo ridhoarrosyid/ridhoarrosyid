@@ -2,10 +2,6 @@
 
 # <summary><strong>Hi there :wave: , I'm Muhammad Ridho Ar-Rosyid!</strong></summary>
 Seorang pengembang front end dengan keahlian dalam JavaScript, PHP, Tailwind CSS, dan React, saya saat ini sedang mengeksplorasi Laravel dan Next.js untuk mengembangkan keterampilan menjadi pengembang full stack. Saya juga sedang menempuh pendidikan di bidang Bisnis Digital di Universitas Lampung. Saya membuka peluang untuk bekerja sebagai freelancer dan magang guna memperluas pengalaman serta mempersiapkan karier saya setelah lulus.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-[![Ridho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhoarrosyid)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
@@ -13,6 +9,8 @@ Seorang pengembang front end dengan keahlian dalam JavaScript, PHP, Tailwind CSS
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/simpleicons.svg" />
 </p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
