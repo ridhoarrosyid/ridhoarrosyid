@@ -6,8 +6,15 @@ Seorang pengembang front end dengan keahlian dalam JavaScript, PHP, Tailwind CSS
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/Language-Javascript-yellow?logo=javascript" />
+    <img src="https://img.shields.io/badge/Language-PHP-777BB4?logo=php" />
+    <img src="https://img.shields.io/badge/css_framework-TailwindCSS-%2306B6D4?logo=tailwindcss" />
+    <img src="https://img.shields.io/badge/css_framework-Bootstrap-%237952B3?logo=bootstrap" />
+    <img src="https://img.shields.io/badge/framework-React-%2361DAFB?logo=react" />
+    <img src="https://img.shields.io/badge/framework-Next.Js-%23000000?logo=nextdotjs" />
+    <img src="hhttps://img.shields.io/badge/framework-Laravel-%23FF2D20?logo=Laravel" />
+    
+    
 
 </p>
 <p>
