@@ -1,7 +1,7 @@
 
 
 # <summary><strong>Hi there :wave: , I'm Muhammad Ridho Ar-Rosyid!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+Seorang pengembang front end dengan keahlian dalam JavaScript, PHP, Tailwind CSS, dan React, saya saat ini sedang mengeksplorasi Laravel dan Next.js untuk mengembangkan keterampilan menjadi pengembang full stack. Saya juga sedang menempuh pendidikan di bidang Bisnis Digital di Universitas Lampung. Saya membuka peluang untuk bekerja sebagai freelancer dan magang guna memperluas pengalaman serta mempersiapkan karier saya setelah lulus.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
