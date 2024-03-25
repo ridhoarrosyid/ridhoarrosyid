@@ -10,7 +10,9 @@ Seorang pengembang front end dengan keahlian dalam JavaScript, PHP, Tailwind CSS
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/simpleicons.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/simpleicons.svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/[ICON SLUG].svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/[ICON SLUG].svg" />
 </p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
