@@ -1,7 +1,7 @@
 
 
 # <summary><strong>Hi there :wave: , I'm Muhammad Ridho Ar-Rosyid!</strong></summary>
-Seorang pengembang front end dengan keahlian dalam JavaScript, PHP, Tailwind CSS, dan React, saya saat ini sedang mengeksplorasi Laravel dan Next.js untuk mengembangkan keterampilan menjadi pengembang full stack. Saya juga sedang menempuh pendidikan di bidang Bisnis Digital di Universitas Lampung. Saya membuka peluang untuk bekerja sebagai freelancer dan magang guna memperluas pengalaman serta mempersiapkan karier saya setelah lulus.
+Seorang pengembang front end dengan :smile: keahlian dalam JavaScript, PHP, Tailwind CSS, dan React, saya saat ini sedang mengeksplorasi Laravel dan Next.js untuk mengembangkan keterampilan menjadi pengembang full stack. Saya juga sedang menempuh pendidikan di bidang Bisnis Digital di Universitas Lampung. Saya membuka peluang untuk bekerja sebagai freelancer dan magang guna memperluas pengalaman serta mempersiapkan karier saya setelah lulus.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
@@ -14,9 +14,10 @@ Seorang pengembang front end dengan keahlian dalam JavaScript, PHP, Tailwind CSS
     <img src="https://img.shields.io/badge/framework-Next.Js-%23000000?logo=nextdotjs" />
     <img src="https://img.shields.io/badge/framework-Laravel-%23FF2D20?logo=Laravel" />
 </p>
+### <summary><strong>Stats💪</strong></summary>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=ridhoarrosyid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhoarrosyid&layout=compact" height=180 />
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
