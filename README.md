@@ -1,6 +1,6 @@
 
 
-# <summary><strong>Hi there :wave: , I'm Muhammad Ridho Ar-Rosyid!</strong></summary>
+<summary><strong>Hi there :wave: , I'm Muhammad Ridho Ar-Rosyid!</strong></summary>
 Seorang pengembang front end dengan :smile: keahlian dalam JavaScript, PHP, Tailwind CSS, dan React, saya saat ini sedang mengeksplorasi Laravel dan Next.js untuk mengembangkan keterampilan menjadi pengembang full stack. Saya juga sedang menempuh pendidikan di bidang Bisnis Digital di Universitas Lampung. Saya membuka peluang untuk bekerja sebagai freelancer dan magang guna memperluas pengalaman serta mempersiapkan karier saya setelah lulus.
 
 ### <summary><strong>Tools:</strong></summary>
