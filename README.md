@@ -17,8 +17,8 @@ Seorang pengembang front end dengan :smile: keahlian dalam JavaScript, PHP, Tail
 
 ### <strong>Stats💪</strong>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ridhoarrosyid&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhoarrosyid&layout=compact" height=180 />
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhoarrosyid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridhoarrosyid&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 ### <strong>Yosh!</strong>
