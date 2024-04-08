@@ -1,8 +1,7 @@
 
 
 # <strong>Hi there :wave: , I'm Muhammad Ridho Ar-Rosyid!</strong>
-Seorang pengembang front end dengan :smile: keahlian dalam JavaScript, PHP, Tailwind CSS, dan React, saya saat ini sedang mengeksplorasi Laravel dan Next.js untuk mengembangkan keterampilan menjadi pengembang full stack. Saya juga sedang menempuh pendidikan di bidang Bisnis Digital di Universitas Lampung. Saya membuka peluang untuk freelance atau magang guna memperluas pengalaman serta mempersiapkan karier saya setelah lulus.
-
+A front end developer with 😄 skills in JavaScript, PHP, Tailwind CSS, and React, I am currently exploring Laravel and Next.js to develop the skills to become a full stack developer. I am also studying in the field of Digital Business at the University of Lampung. I am open to freelance or internship opportunities to broaden my experience and prepare for my career after graduation.
 ### <strong>Tools:</strong>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue"/>
