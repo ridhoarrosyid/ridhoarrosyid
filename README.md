@@ -31,7 +31,7 @@ A front end developer with 😄 skills in JavaScript, PHP, Tailwind CSS, and Rea
  
 ### <strong>Let's connect!</strong>
 <a href="https://twitter.com/ridho_arowwing">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
 <a href="https://www.instagram.com/ridhoo_arrosyid/?hl=en">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
