@@ -37,5 +37,5 @@ A front end developer with 😄 skills in JavaScript, PHP, Tailwind CSS, and Rea
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-ridho-ar-rosyid/">
-  <img align="left" alt="Goo's Blog" height="20px" style="background-color:#eee;padding:4px; border-radius:4px;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />
+  <img align="left" alt="Goo's Blog" height="20px" src="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" />
 </a>
